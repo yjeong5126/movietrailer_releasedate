@@ -1,7 +1,7 @@
 attrs==19.1.0
 Automat==0.8.0
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.4
 certifi==2019.11.28
 cffi==1.13.2
 chardet==3.0.4
@@ -19,7 +19,7 @@ cycler==0.10.0
 decorator==4.4.0
 defusedxml==0.6.0
 descartes==1.1.0
-Django==1.10.5
+Django==1.11.29
 entrypoints==0.3
 Fiona==1.8.13
 fuzzywuzzy==0.18.0
@@ -94,7 +94,7 @@ terminado==0.8.2
 testpath==0.4.2
 tornado==6.0.3
 traitlets==4.3.2
-Twisted==19.10.0
+Twisted==20.3.0
 urllib3==1.25.8
 w3lib==1.21.0
 wcwidth==0.1.7
