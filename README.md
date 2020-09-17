@@ -27,6 +27,8 @@ The general method of scraping these information is explained in this link: http
 The movies used for this analysis played in 2017~2019 in theaters. The total numbers of movies scraped from the boxofficemojo and the traileraddict are 2,711 and 25,047, respectively.
 
 ## Findings
+The results are well explained here: https://medium.com/@yjeong5126/analysis-of-movie-trailer-release-date-3c6e30681aea 
+
 ### Distributors
 <img src="https://github.com/yjeong5126/movietrailer_releasedate/blob/master/images/distributor_promotion_days.PNG" width="500" height="350">
 
